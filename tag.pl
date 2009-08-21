@@ -7,7 +7,7 @@
 #       AUTHOR:  Mark Huiskes, <mark.huiskes@liacs.nl>
 #      COMPANY:  Leiden University
 #    COPYRIGHT:  HUISKES 2009
-#      LICENSE:  Artistic 2.0, see LICENSE.txt
+#      LICENSE:  Artistic 2.0, see LICENSE file
 #===============================================================================
 
 use strict;

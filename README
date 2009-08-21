@@ -1,0 +1,23 @@
+tag.pl is copyright (C) 2009 by Mark Huiskes.
+All rights reserved.
+
+ABOUT TAG.PL
+============
+
+tag.pl is a Perl script for fast image annotation.
+For more details, see manual.txt
+
+INSTALLATION
+============
+
+under construction
+
+LICENSING
+=========
+
+This script is free software; you can redistribute it and/or modify
+it under the terms of the "Artistic License 2.0", see LICENSE.
+
+This script is distributed WITHOUT ANY WARRANTY. See LICENSE for 
+more details.
+
